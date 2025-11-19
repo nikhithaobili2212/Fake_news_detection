@@ -2,7 +2,16 @@
 # coding: utf-8
 
 # In[ ]:
-
+"""Statement of Academic Honesty:
+The following code represents our own work. We have neither received nor given
+inappropriate assistance. We have not copied or modified code from any source
+other than the course webpage or the course textbook. We recognize that any
+unauthorized assistance or plagiarism will be handled in accordance with Georgia
+State University's Academic Honesty Policy and the policies of this course. We
+recognize that our work is based on an assignment created by the Institute for
+Insight at Georgia State University. Any publishing or posting of source code for
+this project is strictly prohibited unless you have written consent from the Institute
+for Insight at Georgia State University."""
 
 # Import all required libraries
 import pandas as pd
